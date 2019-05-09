@@ -1,6 +1,5 @@
 Hello Ramesh & Raju .........
 
-
 Keep Practicing GIT commands
 
 
